@@ -218,7 +218,7 @@ Some plants contain natural chemicals and compounds that can suppress a creature
 
 Though the effects of such a potion would only be temporary, for those afflicted by allergies, they are highly sought after. Their ability to suppress the effects of allergens allow adventurers to imbibe them in preparation of a journey where exposure to allergens might be anticipated, such as a lengthy spelunking into moldy caverns, or a planar excursion into the Far Realm.
 
-> **[Potion of Allergy Relief](potion-of-allergy-relief.md)**
+> **[Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potion-of-allergy-relief.md)**
 > 
 > _Potion, uncommon_
 > 
