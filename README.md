@@ -4,7 +4,8 @@ A 5e rules supplement for allergies both magical and mundane.
 
 ## Resources
 
-- Rules supplement: [Allergies](allergies.md)
+- Rules supplements:
+  - [Allergies](allergies.md)
 - Magic items:
   - [Potion of Allergy Relief](potion-of-allergy-relief.md)
 
