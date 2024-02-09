@@ -10,7 +10,7 @@ A 5e rules supplement for allergies both magical and mundane.
 
 ### Magic Items
 
-- [Potion of Allergy Relief](potion-of-allergy-relief.md)
+- [Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potion-of-allergy-relief.md)
 
 ## Credits
 
