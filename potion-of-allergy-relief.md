@@ -6,7 +6,7 @@ Though the effects of such a potion would only be temporary, for those afflicted
 
 ## Magic item
 
-> **[Potion of Allergy Relief](potion-of-allergy-relief.md)**
+> **Potion of Allergy Relief**
 > 
 > _Potion, uncommon_
 > 
