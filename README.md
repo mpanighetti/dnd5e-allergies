@@ -1,6 +1,6 @@
 # Allergies
 
-A 5e rules supplement for allergies both magical and mundane.
+A 5e homebrew rules supplement for allergies both magical and mundane.
 
 ## Resources
 
