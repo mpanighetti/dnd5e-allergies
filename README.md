@@ -6,11 +6,11 @@ A 5e homebrew rules supplement for allergies both magical and mundane.
 
 ### Full Text
 
-- [Allergies](allergies.md)
+- [Allergies](main.md)
 
 ### Magic Items
 
-- [Potion of Allergy Relief](allergies.md#potion-of-allergy-relief)
+- [Potion of Allergy Relief](main.md#potion-of-allergy-relief)
 
 ## Credits
 
