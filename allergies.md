@@ -214,18 +214,22 @@ The most effective treatment for allergic reactions is to remove exposure to the
 
 ### Potion of Allergy Relief
 
+#### Attributes
+
+**[Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)**
+
+_Potion, uncommon_
+
+When you drink this clear potion, you are subject to the following effects:
+- You immediately remove all effects of allergic reactions, including any levels of exhaustion triggered by allergic reactions.
+- For the next week, you automatically succeed in all allergy saving throws.
+- At the end of the first long rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
+
+#### Description
+
 Some plants contain natural chemicals and compounds that can suppress a creature's allergic reactions when concentrated into a _potion of allergy relief_. These herbs are so rare that they are largely unknown within the Material Plane, and those who have encountered or heard of them often attribute their curative properties to a powerful magic or divine gift. Some worlds may have no such natural remedies at all, or have simply not discovered them yet.
 
 Though the effects of such a potion would only be temporary, for those afflicted by allergies, they are highly sought after. Their ability to suppress the effects of allergens allow adventurers to imbibe them in preparation of a journey where exposure to allergens might be anticipated, such as a lengthy spelunking into moldy caverns, or a planar excursion into the Far Realm.
-
-> **[Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potion-of-allergy-relief.md)**
-> 
-> _Potion, uncommon_
-> 
-> When you drink this clear potion, you are subject to the following effects:
-> - You immediately remove all effects of allergic reactions, including any levels of exhaustion triggered by allergic reactions.
-> - For the next week, you automatically succeed in all allergy saving throws.
-> - At the end of the first long rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
 
 #### Purchasing
 
