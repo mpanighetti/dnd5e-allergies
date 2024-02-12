@@ -212,11 +212,9 @@ Generally speaking, it is not possible to be allergic to yourself (otherwise, ho
 
 The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of exhaustion (either by finishing long rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy saving throws for the next 24 hours.
 
-### Potion of Allergy Relief
+### [Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)
 
 #### Attributes
-
-**[Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)**
 
 _Potion, uncommon_
 
