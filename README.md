@@ -6,7 +6,7 @@ A 5e homebrew rules supplement for allergies both magical and mundane.
 
 ### Full Text
 
-- [Allergies](main.md)
+[Allergies](main.md)
 
 ### Magic Items
 
