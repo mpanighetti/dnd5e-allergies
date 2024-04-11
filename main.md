@@ -32,7 +32,7 @@ Many of these allergens don't make much practical sense, but it's best not to th
 | 00 | Roll twice on this table and take both results (reroll duplicate allergens). |
 
 ### Alignment Allergens
-You must make an allergy saving throw any time you make physical contact with a creature of the corresponding alignment. If you roll your own alignment, roll on this table again to receive a replacement allergen.
+You must make an allergy Saving Throw any time you make physical contact with a creature of the corresponding alignment. If you roll your own alignment, roll on this table again to receive a replacement allergen.
 
 ##### Alignments
 
@@ -51,7 +51,7 @@ You must make an allergy saving throw any time you make physical contact with a 
 
 ### Condition Allergens
 
-You must make an allergy saving throw any time you are subjected to the corresponding condition or situation.
+You must make an allergy Saving Throw any time you are subjected to the corresponding condition or situation.
 
 ##### Conditions
 
@@ -80,7 +80,7 @@ You must make an allergy saving throw any time you are subjected to the correspo
 
 ### Creature Allergens
 
-You must make an allergy saving throw any time you make physical contact with a creature of the corresponding type. If you roll your own creature type, roll on this table again to receive a replacement allergen.
+You must make an allergy Saving Throw any time you make physical contact with a creature of the corresponding type. If you roll your own creature type, roll on this table again to receive a replacement allergen.
 
 ##### Creature Types
 
@@ -103,7 +103,7 @@ You must make an allergy saving throw any time you make physical contact with a 
 
 ### Damage Type Allergens
 
-You must make an allergy saving throw any time you are dealt damage of the corresponding type.
+You must make an allergy Saving Throw any time you are dealt damage of the corresponding type.
 
 ##### Damage Types
 
@@ -131,7 +131,7 @@ You must make an allergy saving throw any time you are dealt damage of the corre
 
 ### Fortune Allergens
 
-You must make an allergy saving throw any time you make the corresponding dice roll. 
+You must make an allergy Saving Throw any time you make the corresponding dice roll.
 
 ##### Fortunes
 
@@ -141,27 +141,27 @@ You must make an allergy saving throw any time you make the corresponding dice r
 | 2 | Rolling a 20 on a d20 |
 | 3 | Rolling over 20 on a skill check |
 | 4 | Failing a skill check |
-| 5 | Failing a saving throw (except for rolls to save against allergic reactions or exhaustion) |
+| 5 | Failing a Saving Throw (except for rolls to save against allergic reactions or exhaustion) |
 | 6 | Rolling percentile dice (except when rolling on **Allergen** or random magical effect tables) |
 
 ### Mundane Allergens
 
-You have a more common allergen triggered by environmental factors, or exposure to relatively mundane materials. Since these do not necessarily match existing game mechanics, making an allergy saving throw will depend on the specific rules of the allergen as listed in the **Mundane** table. If you roll a mundane material that is referenced in your proficiencies or starting equipment, roll on this table again to receive a replacement allergen.
+You have a more common allergen triggered by environmental factors, or exposure to relatively mundane materials. Since these do not necessarily match existing game mechanics, making an allergy Saving Throw will depend on the specific rules of the allergen as listed in the **Mundane** table. If you roll a mundane material that is referenced in your proficiencies or starting equipment, roll on this table again to receive a replacement allergen.
 
 ##### Mundane
 
 | d6 | Allergen |
 |:-:|:-|
-| 1 | **Dust**. If you are in an environment the Game Master determines to be dusty (such as a long-abandoned building), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
-| 2 | A **food** ingredient of your choice. Any time you eat food prepared by someone other than yourself, it has a 10% chance of containing your food allergen, triggering an allergy saving throw. |
-| 3 | An **herb** of your choice. Any time you drink a potion prepared by someone other than yourself, it has a 10% chance of containing your herb allergen, triggering an allergy saving throw. |
-| 4 | **Metal**. You must make an allergy saving throw any time you make physical contact with a metallic object or creature. |
-| 5 | **Mold**. If you are in an environment the GM determines to be moldy (such as a cave), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
-| 6 | **Pollen**. If you are in an environment the GM determines to have pollen in the air (such as an open field of flowers, or a windy climate in springtime), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy saving throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 1 | **Dust**. If you are in an environment the Game Master determines to be dusty (such as a long-abandoned building), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 2 | A **food** ingredient of your choice. Any time you eat food prepared by someone other than yourself, it has a 10% chance of containing your food allergen, triggering an allergy Saving Throw. |
+| 3 | An **herb** of your choice. Any time you drink a potion prepared by someone other than yourself, it has a 10% chance of containing your herb allergen, triggering an allergy Saving Throw. |
+| 4 | **Metal**. You must make an allergy Saving Throw any time you make physical contact with a metallic object or creature. |
+| 5 | **Mold**. If you are in an environment the GM determines to be moldy (such as a cave), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
+| 6 | **Pollen**. If you are in an environment the GM determines to have pollen in the air (such as an open field of flowers, or a windy climate in springtime), when you first arrive and for each hour spent there, you have a 10% chance of needing to make an allergy Saving Throw (increases by 10% for every hour spent in that environment beyond the first). |
 
 ### Planar Allergens
 
-You must make an allergy saving throw when you enter the corresponding plane of existence, if you are within 30 feet of a portal to that plane, or if you are within 30 feet of a creature or object from that plane. You repeat this saving throw for every hour spent on that plane or in range of the portal or native creatures and objects. If you roll the plane of your origin, roll on this table again to receive a replacement allergen.
+You must make an allergy Saving Throw when you enter the corresponding plane of existence, if you are within 30 feet of a portal to that plane, or if you are within 30 feet of a creature or object from that plane. You repeat this Saving Throw for every hour spent on that plane or in range of the portal or native creatures and objects. If you roll the plane of your origin, roll on this table again to receive a replacement allergen.
 
 ##### Planes of Existence
 
@@ -184,11 +184,11 @@ When you come in contact with your allergen, there is a chance that you might su
 
 ### Allergy Saving Throws
 
-Each time you are exposed to a substance to which you are allergic, you must succeed on a Constitution saving throw or suffer an allergic reaction. The DC for this saving throw uses the following equation:
+Each time you are exposed to a substance to which you are allergic, you must succeed on a Constitution Saving Throw or suffer an allergic reaction. The DC for this Saving Throw uses the following equation:
 
-    Allergy Saving Throw DC =  10 + (2 × the number of times you previously made an allergy saving throw since your last long rest)
+    Allergy Saving Throw DC =  10 + (2 × the number of times you previously made an allergy Saving Throw since your last Long Rest)
 
-For example, if you have already made two allergy saving throws earlier in the day, the DC on your next saving throw is 14. Note that your past saving throws are factored in whether or not you successfully saved.
+For example, if you have already made two allergy Saving Throws earlier in the day, the DC on your next Saving Throw is 14. Note that your past Saving Throws are factored in whether or not you successfully saved.
 
 On a failed save, you must roll on the **Allergic Reactions** table to determine your specific reaction. You cannot have an allergic reaction from the same triggering allergen more than once per hour.
 
@@ -197,20 +197,20 @@ On a failed save, you must roll on the **Allergic Reactions** table to determine
 | d10  | Reaction |
 |:----:|:-|
 | 1    | You suffer one level of exhaustion. |
-| 2-4  | Your sneezing and sniffling makes it difficult to focus and move quietly. For the next hour, you have disadvantage on Stealth and Perception checks, and you are unable to maintain concentration when casting spells. |
+| 2-4  | Your sneezing and sniffling makes it difficult to focus and move quietly. For the next hour, you have disadvantage on Stealth and Perception checks, and you are unable to maintain Concentration when casting spells. |
 | 5-7  | Your puffy eyes and runny nose are unbecoming and distracting to others. For the next hour, you have disadvantage on Charisma-based skill checks. |
-| 8-9  | Your allergen has nauseated you. Until your next short rest, you automatically fail all Constitution saving throws, and you are unable to keep any food, drink, or potions down. |
-|  10  | Roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_ or the [Wild Magic Effects Table from amiplayingright](https://at.tumblr.com/amiplayingright/wild-magic-effects-the-homebrewery/nhe9h81pfz18). If that effect is a spell: it doesn’t require concentration; it lasts for its full duration; and the spell save DC is either your own spell save DC (if you have the ability to cast a spell) or 8 + your proficiency bonus + your Constitution modifier (if you cannot normally cast spells). If the effect has a duration associated with combat but you are not currently in combat, it lasts for one hour, or until combat occurs and the stated duration passes.
+| 8-9  | Your allergen has nauseated you. Until your next Short Rest, you automatically fail all Constitution Saving Throws, and you are unable to keep any food, drink, or potions down. |
+|  10  | Roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_ or the [Wild Magic Effects Table from amiplayingright](https://at.tumblr.com/amiplayingright/wild-magic-effects-the-homebrewery/nhe9h81pfz18). If that effect is a spell: it doesn't require Concentration; it lasts for its full duration; and the Spell Save DC is either your own Spell Save DC (if you have the ability to cast a spell) or 8 + your Proficiency Bonus + your Constitution modifier (if you cannot normally cast spells). If the effect has a duration associated with combat but you are not currently in combat, it lasts for one hour, or until combat occurs and the stated duration passes.
 
 ### Self-Allergies
 
-Generally speaking, it is not possible to be allergic to yourself (otherwise, how would you have gotten all the way to adventurer status?), but in some rare situations you might temporarily or permanently change states such that you take on the form of your own allergen. This could happen if polymorphed into a beast, or if your alignment is changed through divine intervention or infernal contracts. In these cases, you would make allergy saving throws as normal, but you can suffer no more than two levels of allergy-triggered exhaustion at once using yourself as an allergen.
+Generally speaking, it is not possible to be allergic to yourself (otherwise, how would you have gotten all the way to adventurer status?), but in some rare situations you might temporarily or permanently change states such that you take on the form of your own allergen. This could happen if polymorphed into a beast, or if your alignment is changed through divine intervention or infernal contracts. In these cases, you would make allergy Saving Throws as normal, but you can suffer no more than two levels of allergy-triggered exhaustion at once using yourself as an allergen.
 
 ## Treating Allergies
 
 ### Natural Recovery
 
-The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of exhaustion (either by finishing long rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy saving throws for the next 24 hours.
+The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy Saving Throws for the next 24 hours.
 
 ### [Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)
 
@@ -220,8 +220,8 @@ _Potion, uncommon_
 
 When you drink this clear potion, you are subject to the following effects:
 - You immediately remove all effects of allergic reactions, including any levels of exhaustion triggered by allergic reactions.
-- For the next week, you automatically succeed in all allergy saving throws.
-- At the end of the first long rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
+- For the next week, you automatically succeed in all allergy Saving Throws.
+- At the end of the first Long Rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
 
 #### Description
 
@@ -235,13 +235,13 @@ Even if your setting includes plants with allergy relief properties, they are un
 
 #### Crafting
 
-With sufficient time and access to the appropriate raw materials, skilled herbalists can create a _potion of allergy relief_ by using the crafting downtime activity mechanic. This requires proficiency with an herbalism kit and access to allergy-relieving herbs. The act of locating and gathering the herbs for processing into a single potion might be the foundation of its own difficult quest.
+With sufficient time and access to the appropriate raw materials, skilled herbalists can create a _potion of allergy relief_ by using the crafting downtime activity mechanic. This requires Proficiency with an herbalism kit and access to allergy-relieving herbs. The act of locating and gathering the herbs for processing into a single potion might be the foundation of its own difficult quest.
 
 ### What Doesn't Work
 
 It is important to note the following aspects of allergies:
 
-- No creature can have resistance or immunity to their allergen, even if they have resistance or immunity to a related condition, damage, or other effect. Allergy saving throws are resolved independently of any such resistances and immunities.
+- No creature can have resistance or immunity to their allergen, even if they have resistance or immunity to a related condition, damage, or other effect. Allergy Saving Throws are resolved independently of any such resistances and immunities.
 - Allergens are not poisons, or anything that could similarly be detected as a harmful substance by mundane or magical means, unless you are specifically looking for the presence of the offending material, creature, or planar energies.
 - Allergies and allergic reactions are not curses (even if they might sometimes feel like it), and thus cannot be alleviated by any effects that remove curses.
 
