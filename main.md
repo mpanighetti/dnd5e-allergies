@@ -12,7 +12,7 @@ As in life, we do not get to decide what might trigger an allergic reaction. Rat
 
 ### Allergens
 
-After you have completed all other steps of character creation, roll percentile dice and consult the **Allergens** table to determine your character's allergen category, then roll on any subsequent tables to find your specific allergen. It is important to save your allergen rolls for last so that you do not retroactively make character trait decisions that conflict with your allergens; they should ideally be totally unaffected by your background decisions (you will typically be prompted to reroll in the case of such conflicts).
+After you have completed all other steps of character creation, roll percentile dice and consult the **Allergens** table to determine your character's allergen category, then roll on any subsequent tables to find your specific allergen. It is important to save your allergen rolls for last so that you do not retroactively make character trait decisions that conflict with your allergens; they should ideally be totally unaffected by your background decisions (you will typically be prompted to re-roll in the case of such conflicts).
 
 Alternatively, you can pick a specific allergen from one of the following tables and work it into your character's background. Maybe they are trying to appeal to the gods to cure their silver allergy. It could be the foundation of an epic personal quest! In this case, consider making character decisions with the allergen in mind; for example, a character with a metal allergy might be well-suited to the druid class, as such practicioners typically avoid wearing metal as a lifestyle choice anyway.
 
@@ -29,7 +29,7 @@ Many of these allergens don't make much practical sense, but it's best not to th
 | 81-90 | Roll on the **Fortunes** table. |
 | 91-95 | Roll on the **Alignments** table. |
 | 96-99 | Roll on the **Planes of Existence** table. |
-| 00 | Roll twice on this table and take both results (reroll duplicate allergens). |
+| 00 | Roll twice on this table and take both results (re-roll duplicate allergens). |
 
 ### Alignment Allergens
 You must make an allergy Saving Throw any time you make physical contact with a creature of the corresponding alignment. If you roll your own alignment, roll on this table again to receive a replacement allergen.
@@ -58,7 +58,7 @@ You must make an allergy Saving Throw any time you are subjected to the correspo
 | d20 | Allergen |
 |:-:|:-|
 | 1 | Blinded |
-| 2 | Bloodied (at or under half of hit point maximum) |
+| 2 | Bloodied (at or under half of Hit Point Maximum) |
 | 3 | Charmed |
 | 4 | Cursed |
 | 5 | Deafened |
@@ -141,7 +141,7 @@ You must make an allergy Saving Throw any time you make the corresponding dice r
 | 2 | Rolling a 20 on a d20 |
 | 3 | Rolling over 20 on a skill check |
 | 4 | Failing a skill check |
-| 5 | Failing a Saving Throw (except for rolls to save against allergic reactions or exhaustion) |
+| 5 | Failing a Saving Throw (except for Saving Throws against allergic reactions or the Exhausted condition) |
 | 6 | Rolling percentile dice (except when rolling on **Allergen** or random magical effect tables) |
 
 ### Mundane Allergens
@@ -180,7 +180,7 @@ You must make an allergy Saving Throw when you enter the corresponding plane of 
 
 ## Allergic Reactions
 
-When you come in contact with your allergen, there is a chance that you might suffer an allergic reaction. In real life, such reactions can range from a sniffly nose to rashes, all the way up to life-threatening responses such as anaphylaxis. In this epic fantasy setting, these conditions are approximated using the exhaustion levels system, with each additional level of exhaustion corresponding with the severity of your reaction. There is also a chance of temporarily suffering disadvantage on skill checks, or a random magical side effect.
+When you come in contact with your allergen, there is a chance that you might suffer an allergic reaction. In real life, such reactions can range from a sniffly nose to rashes, all the way up to life-threatening responses such as anaphylaxis. In this epic fantasy setting, these conditions are approximated using the Exhausted condition, with each additional level corresponding with the severity of your reaction. There is also a chance of temporarily suffering disadvantage on skill checks, or a random magical side effect.
 
 ### Allergy Saving Throws
 
@@ -196,7 +196,7 @@ On a failed save, you must roll on the **Allergic Reactions** table to determine
 
 | d10  | Reaction |
 |:----:|:-|
-| 1    | You suffer one level of exhaustion. |
+| 1    | You suffer one level of Exhaustion. |
 | 2-4  | Your sneezing and sniffling makes it difficult to focus and move quietly. For the next hour, you have disadvantage on Stealth and Perception checks, and you are unable to maintain Concentration when casting spells. |
 | 5-7  | Your puffy eyes and runny nose are unbecoming and distracting to others. For the next hour, you have disadvantage on Charisma-based skill checks. |
 | 8-9  | Your allergen has nauseated you. Until your next Short Rest, you automatically fail all Constitution Saving Throws, and you are unable to keep any food, drink, or potions down. |
@@ -204,13 +204,13 @@ On a failed save, you must roll on the **Allergic Reactions** table to determine
 
 ### Self-Allergies
 
-Generally speaking, it is not possible to be allergic to yourself (otherwise, how would you have gotten all the way to adventurer status?), but in some rare situations you might temporarily or permanently change states such that you take on the form of your own allergen. This could happen if polymorphed into a beast, or if your alignment is changed through divine intervention or infernal contracts. In these cases, you would make allergy Saving Throws as normal, but you can suffer no more than two levels of allergy-triggered exhaustion at once using yourself as an allergen.
+Generally speaking, it is not possible to be allergic to yourself (otherwise, how would you have gotten all the way to adventurer status?), but in some rare situations you might temporarily or permanently change states such that you take on the form of your own allergen. This could happen if polymorphed into a beast, or if your alignment is changed through divine intervention or infernal contracts. In these cases, you would make allergy Saving Throws as normal, but you can suffer no more than two levels of allergy-triggered Exhaustion at once using yourself as an allergen.
 
 ## Treating Allergies
 
 ### Natural Recovery
 
-The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy Saving Throws for the next 24 hours.
+The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of Exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy Saving Throws for the next 24 hours.
 
 ### [Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)
 
@@ -219,9 +219,9 @@ The most effective treatment for allergic reactions is to remove exposure to the
 _Potion, uncommon_
 
 When you drink this clear potion, you are subject to the following effects:
-- You immediately remove all effects of allergic reactions, including any levels of exhaustion triggered by allergic reactions.
+- You immediately remove all effects of allergic reactions, including any levels of Exhaustion triggered by allergic reactions.
 - For the next week, you automatically succeed in all allergy Saving Throws.
-- At the end of the first Long Rest you take after drinking this potion, you gain 2d4 + 2 temporary hit points.
+- At the end of the first Long Rest you take after drinking this potion, you gain 2d4 + 2 Temporary Hit Points.
 
 #### Description
 
@@ -253,8 +253,8 @@ Nothing short of divine intervention or very powerful magic (such as a carefully
 
 ## Variant Rules
 
-If you are running a game that is attempting to be more "realistic" in its treatment of allergies, you can drop the more exotic possibilities from the **Allergens** and **Allergic Reactions** tables, such as the alignment-based allergens or the random magical effect allergic reaction, or possibly forgo the reactions and only take a level of exhaustion on a failed save.
+If you are running a game that is attempting to be more "realistic" in its treatment of allergies, you can drop the more exotic possibilities from the **Allergens** and **Allergic Reactions** tables, such as the alignment-based allergens or the random magical effect allergic reaction, or possibly forgo the reactions and only take a level of Exhaustion on a failed Saving Throw.
 
-On the other hand, a setting where random magic is a widespread fundamental force of reality might have random magical effects _always_ be the reaction to allergens, or you might wish to have everyone's allergies correspond to a status condition (the poisoned condition would be appropriate), possibly ignoring any normal immunity to this condition.
+On the other hand, a setting where random magic is a widespread fundamental aspect of reality might have random magical effects _always_ be the reaction to allergens, or you might wish to have everyone's allergies correspond to a status condition (the Poisoned condition would be appropriate), possibly ignoring any normal immunity to this condition.
 
-This system is flexible enough for any such desired customizations; simply reroll on the **Allergens** and **Allergic Reactions** tables if they land on an excluded result, or limit rolls to specific permitted tables and results.
+This system is flexible enough for any such desired customizations; simply re-roll on the **Allergens** and **Allergic Reactions** tables if they land on an excluded result, or limit rolls to specific permitted tables and results.
