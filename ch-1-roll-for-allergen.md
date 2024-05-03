@@ -1,4 +1,4 @@
-# Roll for Allergen
+# Chapter 1: Roll for Allergen
 
 As in life, we do not get to decide what might trigger an allergic reaction. Rather, these afflictions are intrinsically associated with our very physical being, often from birth. In game terms, it should come down to a roll of the dice.
 
