@@ -1,4 +1,4 @@
-# Allergic Reactions
+# Chapter 2: Allergic Reactions
 
 When you come in contact with your allergen, there is a chance that you might suffer an allergic reaction. In real life, such reactions can range from a sniffly nose to rashes, all the way up to life-threatening responses such as anaphylaxis. In this epic fantasy setting, these conditions are approximated using the Exhausted condition, with each additional level corresponding with the severity of your reaction. There is also a chance of temporarily suffering disadvantage on skill checks, or a random magical side effect.
 
