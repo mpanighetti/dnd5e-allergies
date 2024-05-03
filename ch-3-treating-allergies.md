@@ -1,4 +1,4 @@
-# Treating Allergies
+# Chapter 3: Treating Allergies
 
 ## Natural Recovery
 
