@@ -1,16 +1,16 @@
 # Allergies
 
-A 5e homebrew rules supplement for allergies both magical and mundane.
+Monarchs and commoners, heroes and villains, and creatures of all makes across all planes of existence in all states of life (or unlife) can be susceptible to the effects of an overactive immune system. All it takes is an errant mote of dander, a puff of pollen, or the wrong substance ingested, and your entire day can be ruined.
 
-## Resources
+This 5e homebrew supplement describes how to assign an allergen to your character, and how it manifests mechanically within the game.
 
-### Full Text
+## Table of Contents
 
-[Allergies](main.md)
-
-### Magic Items
-
-- [Potion of Allergy Relief](main.md#potion-of-allergy-relief)
+- Chapter 1: [Roll for Allergen](ch-1-roll-for-allergen.md)
+- Chapter 2: [Allergic Reactions](ch-2-allergic-reactions.md)
+- Chapter 3: [Treating Allergies](ch-3-treating-allergies.md)
+- Chapter 4: [Variant Rules](ch-4-variant-rules.md)
+- [License](LICENSE.md)
 
 ## Credits
 
