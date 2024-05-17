@@ -42,3 +42,8 @@ It is important to note the following aspects of allergies:
 Most creatures simply learn how to live with their conditions and avoid triggers when possible, and accept that there is no normal method to remove the ailment.
 
 Nothing short of divine intervention or very powerful magic (such as a carefully-worded _wish_ spell) can permanently remove an allergy from a creature. This could be granted as the terms of a fiend's infernal contract, or come as a divine boon from one's deity, but in any case would likely come at a great personal expense, or be the reward of a long and difficult holy quest.
+
+---
+
+| ⬅️ [Chapter 2: Allergic Reactions](ch-2-allergic-reactions.md) | [Chapter 4: Variant Rules](ch-4-variant-rules.md) ➡️ |
+|:-|-:|
