@@ -5,3 +5,8 @@ If you are running a game that is attempting to be more "realistic" in its treat
 On the other hand, a setting where random magic is a widespread fundamental aspect of reality might have random magical effects _always_ be the reaction to allergens, or you might wish to have everyone's allergies correspond to a status condition (the Poisoned condition would be appropriate), possibly ignoring any normal immunity to this condition.
 
 This system is flexible enough for any such desired customizations; simply re-roll on the **Allergens** and **Allergic Reactions** tables if they land on an excluded result, or limit rolls to specific permitted tables and results.
+
+---
+
+| ⬅️ [Chapter 3: Treating Allergies](ch-3-treating-allergies.md) |
+|:-|
