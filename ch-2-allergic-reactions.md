@@ -25,3 +25,8 @@ On a failed save, you must roll on the **Allergic Reactions** table to determine
 ## Self-Allergies
 
 Generally speaking, it is not possible to be allergic to yourself (otherwise, how would you have gotten all the way to adventurer status?), but in some rare situations you might temporarily or permanently change states such that you take on the form of your own allergen. This could happen if polymorphed into a beast, or if your alignment is changed through divine intervention or infernal contracts. In these cases, you would make allergy Saving Throws as normal, but you can suffer no more than two levels of allergy-triggered Exhaustion at once using yourself as an allergen.
+
+---
+
+| ⬅️ [Chapter 1: Roll for Allergen](ch-1-roll-for-allergen.md) | [Chapter 3: Treating Allergies](ch-3-treating-allergies.md) ➡️ |
+|:-|-:|
