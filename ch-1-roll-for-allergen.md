@@ -169,3 +169,8 @@ You must make an allergy Saving Throw when you enter the corresponding plane of 
 | 8 | An Outer Plane (roll on the **Alignments** table; you are allergic to any planes of the corresponding alignment; if you roll **Unaligned**, you are allergic to the spaces between planes) |
 | 9 | The Far Realm |
 | 10 | Demiplanes and extradimensional spaces (such as the inside of a bag of holding) |
+
+---
+
+| [Chapter 2: Allergic Reactions](ch-2-allergic-reactions.md) ➡️ |
+|-:|
