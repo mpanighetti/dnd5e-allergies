@@ -18,9 +18,9 @@ On a failed save, you must roll on the **Allergic Reactions** table to determine
 |:----:|:-|
 | 1    | You suffer one level of Exhaustion. |
 | 2-4  | Your sneezing and sniffling makes it difficult to focus and move quietly. For the next hour, you have disadvantage on Stealth and Perception checks, and you are unable to maintain Concentration when casting spells. |
-| 5-7  | Your puffy eyes and runny nose are unbecoming and distracting to others. For the next hour, you have disadvantage on Charisma-based skill checks. |
-| 8-9  | Your allergen has nauseated you. Until your next Short Rest, you automatically fail all Constitution Saving Throws, and you are unable to keep any food, drink, or potions down. |
-|  10  | Roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_ or the [Wild Magic Effects Table from amiplayingright](https://at.tumblr.com/amiplayingright/wild-magic-effects-the-homebrewery/nhe9h81pfz18). If that effect is a spell: it doesn't require Concentration; it lasts for its full duration; and the Spell Save DC is either your own Spell Save DC (if you have the ability to cast a spell) or 8 + your Proficiency Bonus + your Constitution modifier (if you cannot normally cast spells). If the effect has a duration associated with combat but you are not currently in combat, it lasts for one hour, or until combat occurs and the stated duration passes.
+| 5-7  | Your puffy eyes and runny nose are unbecoming and distracting to others. Until you complete a Short or Long Rest, you have disadvantage on Charisma-based skill checks. |
+| 8-9  | Your allergen has nauseated you. Until you complete a Short or Long Rest, you automatically fail all Constitution Saving Throws, and you are unable to keep any food, drink, or potions down. |
+|  10  | Roll on a table for a random magical effect, such as the Wild Magic Surge table in the _Player's Handbook_ or the [Wild Magic Effects Table from amiplayingright](https://at.tumblr.com/amiplayingright/wild-magic-effects-the-homebrewery/nhe9h81pfz18). If that effect is a spell: it doesn't require Concentration; it lasts for its full duration; and the Spell Save DC is either your own Spell Save DC (if you have the ability to cast a spell) or 8 + your Proficiency Bonus + your Constitution modifier (if you cannot normally cast spells).
 
 ## Self-Allergies
 
