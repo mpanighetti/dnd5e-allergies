@@ -8,7 +8,7 @@ The most effective treatment for allergic reactions is to remove exposure to the
 
 #### Attributes
 
-_Potion, uncommon_
+_Potion, Uncommon_
 
 When you drink this clear potion, you are subject to the following effects:
 - You immediately remove all effects of allergic reactions, including any levels of Exhaustion triggered by allergic reactions.
