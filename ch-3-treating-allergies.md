@@ -4,7 +4,7 @@
 
 The most effective treatment for allergic reactions is to remove exposure to the offending allergen and to get some rest. Removing all levels of Exhaustion (either by finishing Long Rests with food and drink or by magical means) restores you to normal health. After you have been restored in this manner, you do not need to make allergy Saving Throws for the next 24 hours.
 
-## [Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/potions/potion-of-allergy-relief.md)
+## Potion of Allergy Relief
 
 #### Attributes
 
